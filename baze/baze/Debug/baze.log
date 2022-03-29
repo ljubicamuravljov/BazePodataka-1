@@ -1,0 +1,9 @@
+﻿  shell.c
+  sqlite3.c
+  Generating Code...
+  Source.cpp
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\BAZE\baze\baze\Source.cpp(105,16): warning C4244: 'initializing': conversion from 'sqlite3_int64' to 'int', possible loss of data
+C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\BAZE\baze\baze\Source.cpp(354,25): warning C4018: '>': signed/unsigned mismatch
+  LINK : C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\BAZE\baze\Debug\baze.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  baze.vcxproj -> C:\Users\ljuba\OneDrive - student.etf.bg.ac.rs\FAKULTET\3. semestar\BAZE\baze\Debug\baze.exe
